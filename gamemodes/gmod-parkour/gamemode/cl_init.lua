@@ -1,6 +1,4 @@
-blacklistedIds = {
-    76561198198170143 = true
-}
+blacklistedIds = {}
 
 if !blacklistedIds[LocalPlayer():SteamID64()] then
     -- Yeah, "DRM". Easily circumvented. Feel free to make your
