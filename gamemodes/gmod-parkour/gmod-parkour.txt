@@ -1,0 +1,11 @@
+"gmod-parkour"
+{
+	"base"		    "sandbox"
+	"title"		    "Parkour"
+	"category"	    "other"
+	"menusystem"	"1"
+
+	"settings"
+	{
+	}
+}
